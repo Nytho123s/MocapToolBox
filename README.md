@@ -1,4 +1,4 @@
-# MocapToolBox
+# mocaptoolbox
 
 A Tool that helps you clean mocap data directly in Maya Autodesk.  
 Maya version (2025.2)  
