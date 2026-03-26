@@ -8,5 +8,5 @@ There is a Drag And Drop Install located here : mocaptoolbox\cg\Maya\addons\moca
 Make sure the mocaptoolbox folder is located in C:\TOOLS_Production, if not, the tool won't work  
 It should look like this: C:\TOOLS_Production\mocaptoolbox
  
-The IKchain system is not complete yet and the colors won't change.
+The IKchain system is a work in progress and the color buttons won't work.
 
