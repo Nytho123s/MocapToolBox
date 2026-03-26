@@ -5,7 +5,7 @@ from PySide6 import QtWidgets, QtCore
 
 
 # --- 1. CONFIGURATION DU CHEMIN ---
-path_to_folder = "C:/TOOLS_Production/mocaptoolbox"
+path_to_folder = "C:/TOOLS_Production/MocapToolBox/mtb"
 if path_to_folder not in sys.path:
     sys.path.insert(0, path_to_folder)
 
